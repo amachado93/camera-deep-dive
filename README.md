@@ -1,8 +1,4 @@
-# threejs-boilerplate
-boiler plate code that can be used for future three js projects
+# Perspective vs Orthographic Deep Dive
 
-To use:
-Clone repository
-CD into directory
-npm install
-npm run dev
+
+![screenshot](https://user-images.githubusercontent.com/32115324/169192183-eb64a2b0-cb8f-4bf7-bc69-66801742e6ae.png)
